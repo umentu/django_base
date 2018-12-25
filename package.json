@@ -1,0 +1,29 @@
+{
+  "name": "stock_management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/umentulab/stock_management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/umentulab/stock_management#readme",
+  "devDependencies": {
+    "bootstrap": "^4.2.1",
+    "css-loader": "^2.0.2",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.28.2",
+    "webpack-bundle-tracker": "^0.4.2-beta"
+  },
+  "dependencies": {
+    "webpack-cli": "^3.1.2"
+  }
+}
